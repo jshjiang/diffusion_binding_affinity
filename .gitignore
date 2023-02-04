@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 3rd party libraries
+lib/
+
+# ipython notebook
+.ipynb_checkpoints/
